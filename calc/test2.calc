@@ -1,0 +1,6 @@
+set apple = 3
+set bat = 4
+set cat = 5
+set sat = (apple+bat+cat)/2
+put sat
+put sat*(sat-apple)*(sat-bat)*(sat-cat)
